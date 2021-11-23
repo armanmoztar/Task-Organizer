@@ -1,0 +1,15 @@
+{
+    "name": "My Todo List",
+    "tasks": [
+        {
+            "text": "Buy notebook",
+            "category": "PERSONAL",
+            "dueIn": 2
+        },
+        {
+            "text": "Make changes to resume",
+            "category": "WORK",
+            "dueIn": 3
+        }
+    ]
+}

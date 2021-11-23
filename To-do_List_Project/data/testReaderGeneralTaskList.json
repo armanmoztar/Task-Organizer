@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "text": "Finish project and study so i don't fail 210",
+      "dueIn": 3,
+      "category": "SCHOOL"
+    },
+    {
+      "text": "Get some bread",
+      "dueIn": 2,
+      "category": "PERSONAL"
+    }
+  ],
+  "name": "My Todo List"
+}
