@@ -1,2 +1,2 @@
 # Task-Organizer
-Made as a Final Project for CPSC 210
+Made as a Term Project for CPSC 210
