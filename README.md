@@ -4,7 +4,7 @@ Task Orgainzer was made as a term project for UBC CPSC 210 (Object-Oriented Prog
 
 To view the application, simply right click on the 'main' class to run the file.
 
-<img src="images/github-splashscreen.png" width="100" height="100">
+<img src="images/github-main.png" width="300" height="150">
 
 ### Functionality:
 
@@ -13,8 +13,7 @@ To view the application, simply right click on the 'main' class to run the file.
 - Saving and loading local file with data
 - Printing the date and time into the console when a task is added or removed
 
-<img src="images/github-main.png" width="100" height="100">
-<img src="images/github-add_task.png" width="100" height="100">
+<img src="images/github-add_task.png" width="300" height="150">
 
 ### Programming Practices:
 
