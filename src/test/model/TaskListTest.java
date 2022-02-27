@@ -13,7 +13,6 @@ import static org.junit.jupiter.api.Assertions.*;
 //Class tests the TaskList class and its methods
 public class TaskListTest {
     private TaskList testTaskList;
-    private EventLog testEventLog;
 
     @BeforeEach
     public void runBefore() {

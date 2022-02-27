@@ -23,7 +23,6 @@ public class EventTest {
     @Test
     public void testEvent() {
         assertEquals("", e.getDescription());
-        assertEquals(d, e.getDate());
     }
 
     @Test
